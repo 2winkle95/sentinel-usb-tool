@@ -1,3 +1,8 @@
+Note:
+-----
+This repository is a forked version of Synaptics' original USB tool repository. It may contain modifications or enhancements that are not present in the upstream version.
+Modification is done to add support foor the Sentinel series of boards, which are based on Synaptics' Astra series.
+
 Synaptics Astra USB Tools
 =========================
 
